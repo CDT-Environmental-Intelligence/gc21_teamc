@@ -1,0 +1,367 @@
+﻿local authority: district / unitary (as of April 2021),la code,number,conf
+Darlington,E06000005,6.1,1.2
+County Durham,E06000047,6,-
+Hartlepool,E06000001,7.9,1.5
+Middlesbrough,E06000002,7.3,1.5
+Northumberland,E06000057,5.4,-
+Redcar and Cleveland,E06000003,6.7,1.4
+Stockton-on-Tees,E06000004,6,1.2
+Gateshead,E08000037,6.1,1.3
+Newcastle upon Tyne,E08000021,6.7,1.5
+North Tyneside,E08000022,5.8,1.3
+South Tyneside,E08000023,8.2,1.6
+Sunderland,E08000024,6.8,1.3
+Blackburn with Darwen,E06000008,5.4,1.2
+Blackpool,E06000009,5.5,1.3
+Cheshire East,E06000049,3.5,-
+Cheshire West and Chester,E06000050,3.1,-
+Halton,E06000006,4.5,1
+Warrington,E06000007,3.3,0.8
+Allerdale,E07000026,3.5,1.2
+Barrow-in-Furness,E07000027,4.4,1.7
+Carlisle,E07000028,3.3,1.1
+Copeland,E07000029,3.7,1.3
+Eden,E07000030,2.5,1
+South Lakeland,E07000031,2.7,0.9
+Bolton,E08000001,5.3,1.2
+Bury,E08000002,4.2,1
+Manchester,E08000003,6.7,1.4
+Oldham,E08000004,5.3,1.2
+Rochdale,E08000005,4.9,1.1
+Salford,E08000006,4.8,1
+Stockport,E08000007,3.7,0.9
+Tameside,E08000008,4.9,1.1
+Trafford,E08000009,3.5,0.8
+Wigan,E08000010,4.5,1
+Burnley,E07000117,5.1,1.7
+Chorley,E07000118,3.6,1.2
+Fylde,E07000119,3.6,1.4
+Hyndburn,E07000120,5,1.9
+Lancaster,E07000121,4.4,1.3
+Pendle,E07000122,4.3,1.6
+Preston,E07000123,4.6,1.3
+Ribble Valley,E07000124,2.5,1.2
+Rossendale,E07000125,3.7,1.4
+South Ribble,E07000126,2.9,1
+West Lancashire,E07000127,3.7,1.3
+Wyre,E07000128,3.7,1.3
+Knowsley,E08000011,3.6,1
+Liverpool,E08000012,3.7,1
+Sefton,E08000014,3.2,0.9
+St. Helens,E08000013,3.4,0.9
+Wirral,E08000015,3.4,0.9
+East Riding of Yorkshire,E06000011,3.4,0.8
+"Kingston upon Hull, City of",E06000010,5.3,1.2
+North East Lincolnshire,E06000012,5,1.1
+North Lincolnshire,E06000013,4.8,1.1
+York,E06000014,3,0.8
+Craven,E07000163,2.4,1
+Hambleton,E07000164,2.9,1
+Harrogate,E07000165,2.7,0.8
+Richmondshire,E07000166,2.9,1.3
+Ryedale,E07000167,3.2,1.3
+Scarborough,E07000168,4,1.3
+Selby,E07000169,2.7,1
+Barnsley,E08000016,5.2,1.2
+Doncaster,E08000017,5.3,1.2
+Rotherham,E08000018,4.5,1
+Sheffield,E08000019,4.6,1.1
+Bradford,E08000032,5.6,1.3
+Calderdale,E08000033,4.3,1
+Kirklees,E08000034,4.4,1
+Leeds,E08000035,4.3,0.9
+Wakefield,E08000036,4.7,1
+Derby,E06000015,5.4,1.2
+Leicester,E06000016,5.9,1.3
+Nottingham,E06000018,6.7,1.4
+Rutland,E06000017,3.6,1.1
+Amber Valley,E07000032,4.3,1.4
+Bolsover,E07000033,5.4,2.2
+Chesterfield,E07000034,5.6,1.8
+Derbyshire Dales,E07000035,3.4,1.3
+Erewash,E07000036,4.3,1.4
+High Peak,E07000037,4.2,1.4
+North East Derbyshire,E07000038,4.4,1.5
+South Derbyshire,E07000039,3.6,1.2
+Blaby,E07000129,3.4,1.2
+Charnwood,E07000130,3.4,1.1
+Harborough,E07000131,3.6,1.2
+Hinckley and Bosworth,E07000132,3.9,1.2
+Melton,E07000133,4.3,1.6
+North West Leicestershire,E07000134,4.8,1.5
+Oadby and Wigston,E07000135,3.5,1.7
+Boston,E07000136,4.3,1.8
+East Lindsey,E07000137,5.1,1.6
+Lincoln,E07000138,7.2,2.2
+North Kesteven,E07000139,3.7,1.2
+South Holland,E07000140,4.6,1.5
+South Kesteven,E07000141,4.2,1.3
+West Lindsey,E07000142,5.3,1.7
+Ashfield,E07000170,5.7,1.8
+Bassetlaw,E07000171,5.2,1.9
+Broxtowe,E07000172,3.9,1.3
+Gedling,E07000173,4.5,1.4
+Mansfield,E07000174,6.2,2
+Newark and Sherwood,E07000175,4.6,1.5
+Rushcliffe,E07000176,3.8,1.3
+North Northamptonshire,E06000061,3.3,-
+West Northamptonshire,E06000062,3.5,-
+"Herefordshire, County of",E06000019,3.3,0.8
+Shropshire,E06000051,3.7,-
+Stoke-on-Trent,E06000021,5.3,1.1
+Telford and Wrekin,E06000020,5.1,1.1
+Cannock Chase,E07000192,4.2,1.6
+East Staffordshire,E07000193,4.1,1.3
+Lichfield,E07000194,3.9,1.3
+Newcastle-under-Lyme,E07000195,5.8,1.9
+South Staffordshire,E07000196,4.3,1.4
+Stafford,E07000197,3.6,1.1
+Staffordshire Moorlands,E07000198,2.8,1
+Tamworth,E07000199,4.7,1.7
+North Warwickshire,E07000218,4,1.4
+Nuneaton and Bedworth,E07000219,4.8,1.3
+Rugby,E07000220,4,1.2
+Stratford-on-Avon,E07000221,3.1,0.9
+Warwick,E07000222,3.1,0.9
+Birmingham,E08000025,7.8,1.5
+Coventry,E08000026,5.9,1.2
+Dudley,E08000027,6.4,1.4
+Sandwell,E08000028,6.1,1.3
+Solihull,E08000029,4.3,1
+Walsall,E08000030,5.8,1.2
+Wolverhampton,E08000031,6.1,1.3
+Bromsgrove,E07000234,4,1.2
+Malvern Hills,E07000235,3.6,1.2
+Redditch,E07000236,4.8,1.5
+Worcester,E07000237,3.8,1.2
+Wychavon,E07000238,3.4,1
+Wyre Forest,E07000239,4.4,1.4
+Bedford,E06000055,3.5,0.9
+Central Bedfordshire,E06000056,3.2,-
+Luton,E06000032,5.4,1.4
+Peterborough,E06000031,4.8,1.1
+Southend-on-Sea,E06000033,4.4,1
+Thurrock,E06000034,4.4,1
+Cambridge,E07000008,4.1,1.4
+East Cambridgeshire,E07000009,3,1
+Fenland,E07000010,3.7,1.4
+Huntingdonshire,E07000011,3.6,1.1
+South Cambridgeshire,E07000012,3.4,1
+Basildon,E07000066,4.3,1.2
+Braintree,E07000067,3,0.9
+Brentwood,E07000068,4,1.9
+Castle Point,E07000069,3.4,1.2
+Chelmsford,E07000070,3.4,1
+Colchester,E07000071,4.4,1.2
+Epping Forest,E07000072,3.7,1.1
+Harlow,E07000073,4.9,1.9
+Maldon,E07000074,3.8,1.5
+Rochford,E07000075,3.6,1.3
+Tendring,E07000076,5,1.6
+Uttlesford,E07000077,3.7,1.5
+Broxbourne,E07000095,3.8,1.3
+Dacorum,E07000096,3.5,1
+East Hertfordshire,E07000242,3.1,0.9
+Hertsmere,E07000098,4.5,1.5
+North Hertfordshire,E07000099,3.4,1
+St Albans,E07000240,3.2,0.9
+Stevenage,E07000243,3.5,1.1
+Three Rivers,E07000102,3.5,1.2
+Watford,E07000103,4.3,1.5
+Welwyn Hatfield,E07000241,3.2,1
+Breckland,E07000143,4,1.2
+Broadland,E07000144,3.1,1
+Great Yarmouth,E07000145,6.5,2.4
+King's Lynn and West Norfolk,E07000146,3.5,1
+North Norfolk,E07000147,3.7,1.4
+Norwich,E07000148,4.3,1.4
+South Norfolk,E07000149,3.1,0.9
+Babergh,E07000200,3.2,1.1
+Ipswich,E07000202,4.4,1.3
+Mid Suffolk,E07000203,3.4,1.1
+East Suffolk,E07000244,4,-
+West Suffolk,E07000245,3,-
+Camden,E09000007,5.3,1.5
+City of London,E09000001,0,-
+Hackney,E09000012,6.7,1.9
+Hammersmith and Fulham,E09000013,6.5,1.8
+Haringey,E09000014,6.4,1.7
+Islington,E09000019,6.7,1.9
+Kensington and Chelsea,E09000020,5.9,1.7
+Lambeth,E09000022,6.3,1.6
+Lewisham,E09000023,5.7,1.5
+Newham,E09000025,6.8,1.9
+Southwark,E09000028,6,1.6
+Tower Hamlets,E09000030,6.7,1.9
+Wandsworth,E09000032,5,1.4
+Westminster,E09000033,6.1,1.8
+Barking and Dagenham,E09000002,7.9,2.2
+Barnet,E09000003,5.3,1.3
+Bexley,E09000004,4.7,1.2
+Brent,E09000005,7,2
+Bromley,E09000006,4.7,1.2
+Croydon,E09000008,6.3,1.5
+Ealing,E09000009,6.3,1.7
+Enfield,E09000010,6.6,1.7
+Greenwich,E09000011,5.7,1.4
+Harrow,E09000015,5.6,1.5
+Havering,E09000016,5,1.3
+Hillingdon,E09000017,6,1.6
+Hounslow,E09000018,6.1,1.6
+Kingston upon Thames,E09000021,4.9,1.3
+Merton,E09000024,5.1,1.3
+Redbridge,E09000026,5.3,1.3
+Richmond upon Thames,E09000027,4,1.1
+Sutton,E09000029,5.1,1.3
+Waltham Forest,E09000031,7.1,1.8
+Bracknell Forest,E06000036,3.4,0.8
+Brighton and Hove,E06000043,5.4,1.2
+Isle of Wight,E06000046,5,1.1
+Medway,E06000035,4.7,1.1
+Milton Keynes,E06000042,3.7,0.8
+Portsmouth,E06000044,5.3,1.2
+Reading,E06000038,4.2,0.9
+Slough,E06000039,5.7,1.5
+Southampton,E06000045,4.8,1
+West Berkshire,E06000037,3,0.7
+Windsor and Maidenhead,E06000040,3.3,0.7
+Wokingham,E06000041,3.2,0.7
+Buckinghamshire,E06000060,3.5,-
+Eastbourne,E07000061,4.6,1.6
+Hastings,E07000062,5.6,1.8
+Lewes,E07000063,4.4,1.4
+Rother,E07000064,3.5,1.2
+Wealden,E07000065,3.9,1.1
+Basingstoke and Deane,E07000084,3.3,0.9
+East Hampshire,E07000085,3.5,1.1
+Eastleigh,E07000086,3.3,1
+Fareham,E07000087,3.2,1.1
+Gosport,E07000088,4.1,1.4
+Hart,E07000089,3.5,1.2
+Havant,E07000090,5,1.7
+New Forest,E07000091,3.9,1.1
+Rushmoor,E07000092,4.4,1.4
+Test Valley,E07000093,2.5,0.8
+Winchester,E07000094,3,1
+Ashford,E07000105,3.7,1.1
+Canterbury,E07000106,3.8,1.1
+Dartford,E07000107,3.4,1.3
+Dover,E07000108,5,1.6
+Gravesham,E07000109,4.6,1.5
+Maidstone,E07000110,3.7,1.2
+Sevenoaks,E07000111,3.9,1.3
+Folkestone and Hythe,E07000112,3.9,1.3
+Swale,E07000113,5.4,1.6
+Thanet,E07000114,5.5,1.7
+Tonbridge and Malling,E07000115,3.4,1.2
+Tunbridge Wells,E07000116,3,1
+Cherwell,E07000177,3.1,0.9
+Oxford,E07000178,4.9,1.5
+South Oxfordshire,E07000179,3,0.9
+Vale of White Horse,E07000180,2.6,0.8
+West Oxfordshire,E07000181,3.3,1.1
+Elmbridge,E07000207,3.4,1.1
+Epsom and Ewell,E07000208,2.9,1
+Guildford,E07000209,3,0.9
+Mole Valley,E07000210,3,1
+Reigate and Banstead,E07000211,3.4,1.1
+Runnymede,E07000212,2.5,0.9
+Spelthorne,E07000213,3.7,1.1
+Surrey Heath,E07000214,3.3,1.3
+Tandridge,E07000215,3.1,1.3
+Waverley,E07000216,3,0.9
+Woking,E07000217,3.5,1.2
+Adur,E07000223,3.8,1.3
+Arun,E07000224,4,1.2
+Chichester,E07000225,3.7,1.2
+Crawley,E07000226,4.5,1.5
+Horsham,E07000227,3.1,0.9
+Mid Sussex,E07000228,2.6,0.8
+Worthing,E07000229,4,1.2
+Bath and North East Somerset,E06000022,3.3,0.8
+"Bristol, City of",E06000023,4.6,1
+Cornwall,E06000052,4,-
+Isles of Scilly,E06000053,0,-
+North Somerset,E06000024,3.7,0.9
+Plymouth,E06000026,5.1,1.1
+South Gloucestershire,E06000025,3.4,0.8
+Swindon,E06000030,3.9,0.9
+Torbay,E06000027,4.8,1.1
+Wiltshire,E06000054,3.1,-
+East Devon,E07000040,3.3,1
+Exeter,E07000041,4.2,1.4
+Mid Devon,E07000042,3.1,1.1
+North Devon,E07000043,3.3,1.1
+South Hams,E07000044,3.7,1.4
+Teignbridge,E07000045,3.5,1.1
+Torridge,E07000046,4.4,2
+West Devon,E07000047,3.4,1.6
+"Bournemouth, Christchurch and Poole",E06000058,4.5,-
+Dorset,E06000059,3.4,-
+Cheltenham,E07000078,3.5,1
+Cotswold,E07000079,2.9,1
+Forest of Dean,E07000080,3.2,1.1
+Gloucester,E07000081,4.1,1.3
+Stroud,E07000082,3.1,0.9
+Tewkesbury,E07000083,3.3,1
+Mendip,E07000187,3.6,1.2
+Sedgemoor,E07000188,4.1,1.3
+South Somerset,E07000189,3.6,1.1
+Somerset West and Taunton,E07000246,4,-
+Isle of Anglesey,W06000001,4,1
+Gwynedd,W06000002,3.4,0.9
+Conwy,W06000003,3.6,0.9
+Denbighshire,W06000004,3.5,0.9
+Flintshire,W06000005,3.2,0.8
+Wrexham,W06000006,3.6,0.8
+Powys,W06000023,2.9,0.8
+Ceredigion,W06000008,3.3,0.8
+Pembrokeshire,W06000009,3.3,0.8
+Carmarthenshire,W06000010,3.5,0.8
+Swansea,W06000011,4.3,1
+Neath Port Talbot,W06000012,3.8,0.9
+Bridgend,W06000013,3.5,0.9
+Vale of Glamorgan,W06000014,3.5,0.9
+Cardiff,W06000015,3.8,0.9
+Rhondda Cynon Taff,W06000016,4.6,1.1
+Merthyr Tydfil,W06000024,5.5,1.4
+Caerphilly,W06000018,4.1,0.9
+Blaenau Gwent,W06000019,4.2,1.1
+Torfaen,W06000020,3.8,0.9
+Monmouthshire,W06000021,2.6,0.7
+Newport,W06000022,3.9,0.9
+Aberdeen City,S12000033,4.5,1.1
+Aberdeenshire,S12000034,2.8,0.7
+Angus,S12000041,3.9,0.9
+Argyll and Bute,S12000035,3.4,0.8
+Clackmannanshire,S12000005,4.7,1.3
+Dumfries and Galloway,S12000006,4.1,1
+Dundee City,S12000042,5.5,1.2
+East Ayrshire,S12000008,5.2,1.2
+East Dunbartonshire,S12000045,3.2,0.8
+East Lothian,S12000010,4.1,1
+East Renfrewshire,S12000011,3.5,0.9
+City of Edinburgh,S12000036,3.9,0.9
+Na h-Eileanan Siar,S12000013,3.2,0.9
+Falkirk,S12000014,4.4,1
+Fife,S12000047,4.8,1
+Glasgow City,S12000049,5.3,1.2
+Highland,S12000017,3.2,0.8
+Inverclyde,S12000018,5.2,1.2
+Midlothian,S12000019,3.6,0.9
+Moray,S12000020,3.6,0.9
+North Ayrshire,S12000021,5.3,1.2
+North Lanarkshire,S12000050,5.3,1.2
+Orkney Islands,S12000023,2.7,1.2
+Perth and Kinross,S12000048,3.7,0.9
+Renfrewshire,S12000038,4.3,1
+Scottish Borders,S12000026,3.3,0.8
+Shetland Islands,S12000027,2.5,1.2
+South Ayrshire,S12000028,4.9,1.1
+South Lanarkshire,S12000029,4.2,0.9
+Stirling,S12000030,3.5,0.9
+West Dunbartonshire,S12000039,5,1.1
+West Lothian,S12000040,4,0.9
+,,,
+#NAME?,,,
+Unemployment estimates for local authority areas except county councils are model-based. Estimates for other geography types are not model-based and are taken directly from the Annual Population Survey dataset.,,,
